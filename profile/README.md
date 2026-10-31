@@ -1,4 +1,4 @@
-## Welcome to SetaByte 👋
+## Welcome to SetaByte
 
 <!--
 
